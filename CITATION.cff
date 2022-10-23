@@ -1,0 +1,15 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Dispositivo IoT orientado a la acuicultura
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Alejandro
+    name-particle: de la Cruz
+    family-names: Meneses
+    email: ale_adm1@hotmail.com
+  - {}
