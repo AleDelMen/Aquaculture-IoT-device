@@ -1,0 +1,6 @@
+{
+    "require": {
+        "ivkos/pushbullet": "3.*",
+        "bluerhinos/phpmqtt": "@dev"
+    }
+}
