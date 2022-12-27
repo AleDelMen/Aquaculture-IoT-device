@@ -1,4 +1,5 @@
-# Aquaculture-IoT-device
+# Design and development of a water quality measurement prototype for aquaculture production
+
 This project presents the development of a system for monitoring and data collection. The system is composed of a device for measuring parameters related to a phenomenon of interest called end device, a gateway that is in charge of receiving the data, an application server that stores, displays and triggers alarms if necessary, and a network server that coordinates the gateway and the application server. As a demonstration of the system, a fish farm water quality monitoring application is shown, however, the proposed system is general purpose, and can be used in a wide variety of IoT applications.
 
 ## System operation
